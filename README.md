@@ -1,4 +1,4 @@
-DL_Red_Wine_Quality
+DeepLearning - Practice
 # Deep Learning Model - Red Wine Quality
 
 
